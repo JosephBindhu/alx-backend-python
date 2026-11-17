@@ -1,0 +1,23 @@
+Async Python Project
+Overview
+This project focuses on asynchronous programming in Python using the asyncio module. It demonstrates how to use the async and await syntax to run tasks concurrently and efficiently manage asynchronous I/O operations.
+
+Learning Objectives
+By completing this project, you will gain a strong understanding of:
+
+How to work with async and await syntax to define asynchronous functions.
+How to execute an async program using the asyncio library.
+Running concurrent coroutines to handle multiple tasks at the same time.
+Creating and managing tasks in asyncio to control the flow of asynchronous programs.
+Using the random module to introduce randomness in the execution of tasks.
+Requirements
+All code is written and tested using Python 3.7 on Ubuntu 18.04 LTS.
+Files follow the pycodestyle style guide (version 2.5.x) and include type annotations.
+Each module and function is well-documented, explaining its purpose and usage.
+The project includes asynchronous functions that are run concurrently using asyncio.
+Resources
+To fully grasp the concepts presented in this project, refer to:
+
+Async IO in Python: A Complete Walkthrough
+asyncio - Asynchronous I/O (Python official documentation)
+random.uniform function from the random module.
